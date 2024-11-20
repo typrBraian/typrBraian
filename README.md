@@ -1,16 +1,21 @@
-Olá, sou o Braian! 👋
-📚 Atualmente, estou cursando Desenvolvimento de Sistemas e estou sempre em busca de novos desafios para aprimorar minhas habilidades em programação.
+# Olá, sou o Braian! 👋
 
-🛠️ Tecnologias que estou aprendendo:
-🚀 JavaScript e TypeScript
-🖥️ HTML & CSS
-🧑‍💻 Python
-🌱 Node.js, React e SQL
-🔥 Meu Projeto:
-MemóriasTDS 💾 - Um projeto que estou desenvolvendo para guardar e gerenciar memórias de maneira simples e eficiente. Confira o repositório! MemóriasTDS
-📈 Estatísticas do GitHub:
+📚 Atualmente, estou cursando **Desenvolvimento de Sistemas** e estou sempre em busca de novos desafios para aprimorar minhas habilidades em programação.
 
-💬 Vamos conversar!
-🧑‍💻 LinkedIn: Braian no LinkedIn
-🦸‍♂️ Twitter: @SeuTwitter
-🧩 Estou em constante aprendizado e adoro colaborar em projetos open-source!
+### 🛠️ Tecnologias que estou aprendendo:
+- 🚀 **JavaScript** e **TypeScript**
+- 🖥️ **HTML** & **CSS**
+- 🧑‍💻 **Python**
+- 🌱 **Node.js**, **React** e **SQL**
+
+### 🔥 Meu Projeto:
+- **MemóriasTDS** 💾 - Um projeto que estou desenvolvendo para **guardar e gerenciar memórias** de maneira simples e eficiente. Confira o repositório! [MemóriasTDS](https://github.com/typrBraian/memoriastds)
+
+### 📈 Estatísticas do GitHub:
+![Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+### 💬 Vamos conversar!
+- 🧑‍💻 **LinkedIn:** [Braian no LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- 🦸‍♂️ **Instagram:** [@szplutoo](https://www.instagram.com/szplutoo/)
+
+### 🧩 Estou em constante aprendizado e adoro colaborar em projetos open-source!
