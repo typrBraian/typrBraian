@@ -9,7 +9,7 @@
 - 🌱 **Node.js**, **React** e **SQL**
 
 ### 🔥 Meu Projeto:
-- **MemóriasTDS** 💾 - Um projeto que estou desenvolvendo para **guardar e gerenciar memórias** de maneira simples e eficiente. Confira o repositório! [MemóriasTDS](https://github.com/typrBraian/memoriastds)
+- **MemóriasTDS** 💾 - Um projeto que estou desenvolvendo para **guardar e gerenciar memórias** de maneira simples e eficiente. Confira o repositório! [MemóriasTDS]([https://github.com/typrBraian/memoriastds](https://github.com/typrBraian/MemoriasTDS))
 
 ### 📈 Estatísticas do GitHub:
 ![Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&hide_title=true&count_private=true&theme=radical)
