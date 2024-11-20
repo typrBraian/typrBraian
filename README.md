@@ -9,14 +9,15 @@
 - 🌱 **Node.js**, **React** e **SQL**
 
 ### 🔥 Meu Projeto:
-- **MemóriasTDS** 💾 - Um projeto que estou desenvolvendo para **guardar e gerenciar memórias** de maneira simples e eficiente. Confira o repositório! [MemóriasTDS]
-- (https://github.com/typrBraian/MemoriasTDS) 
+- **MemóriasTDS** 💾 - Um projeto que estou desenvolvendo para **guardar e gerenciar memórias** de maneira simples e eficiente. Confira o repositório! [MemóriasTDS](https://github.com/typrBraian/MemoriasTDS)
 
 ### 📈 Estatísticas do GitHub:
-![Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=typrBraian&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ### 💬 Vamos conversar!
+<!--
 - 🧑‍💻 **LinkedIn:** [Braian no LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+-->
 - 🦸‍♂️ **Instagram:** [@szplutoo](https://www.instagram.com/szplutoo/)
 
 ### 🧩 Estou em constante aprendizado e adoro colaborar em projetos open-source!
