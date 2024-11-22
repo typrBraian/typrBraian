@@ -15,9 +15,9 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=typrBraian&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ### 💬 Vamos conversar!
-<!--
-- 🧑‍💻 **LinkedIn:** [Braian no LinkedIn](https://www.linkedin.com/in/seu-linkedin)
--->
+
+- 🧑‍💻 **LinkedIn:** [Braian no LinkedIn](www.linkedin.com/in/braian-jorge-lisboa-373997290/?originalSubdomain=br)
+
 - 🦸‍♂️ **Instagram:** [@szplutoo](https://www.instagram.com/szplutoo/)
 
 ### 🧩 Estou em constante aprendizado e adoro colaborar em projetos open-source!
