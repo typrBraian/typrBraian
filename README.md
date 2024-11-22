@@ -16,8 +16,7 @@
 
 ### 💬 Vamos conversar!
 
-- 🧑‍💻 **LinkedIn:** [Braian no LinkedIn](www.linkedin.com/in/braian-jorge-lisboa-373997290/?originalSubdomain=br)
-
+- 🧑‍💻 **LinkedIn:** [Braian no LinkedIn](https://www.linkedin.com/in/braian-jorge-lisboa-373997290)
 - 🦸‍♂️ **Instagram:** [@szplutoo](https://www.instagram.com/szplutoo/)
 
 ### 🧩 Estou em constante aprendizado e adoro colaborar em projetos open-source!
